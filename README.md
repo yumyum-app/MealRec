@@ -1,3 +1,7 @@
+**The latest version of this dataset has been released, and this paper has been accepted by SIGIR 2024.**
+
+**Please see it in https://github.com/WUT-IDEA/MealRecPlus**
+
 # MealRec
 google dirve: \
 https://drive.google.com/drive/folders/1AhsODmR1xRJsY8VwOaQbfpi85GBw_0ZR?usp=sharing \
